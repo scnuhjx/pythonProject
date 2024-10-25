@@ -27,6 +27,6 @@ def pdf_to_images(pdf_path, output_dir):
 
 
 # 示例使用
-pdf_path = "example.pdf"  # 替换为你的PDF文件路径
-output_dir = "output_images"  # 替换为你想要保存图片的目录
+pdf_path = "/Users/gdhjx/Downloads/儿童游戏.pdf"  # 替换为你的PDF文件路径
+output_dir = "/Users/gdhjx/Documents/test"  # 替换为你想要保存图片的目录
 pdf_to_images(pdf_path, output_dir)
